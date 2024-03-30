@@ -1,0 +1,16 @@
+{
+  "name": "websocket_chat_api",
+  "version": "1.0.0",
+  "description": "websocket api's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Kumar yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  }
+}
